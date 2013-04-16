@@ -8,7 +8,7 @@ namespace CourseManager
     static class Program
     {
         /// <summary>
-        /// The main entry point for the application.
+        /// The main entry point for the application. We are going to add a new sentence to comments.
         /// </summary>
         [STAThread]
         static void Main()
